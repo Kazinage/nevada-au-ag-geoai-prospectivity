@@ -144,3 +144,13 @@ ORCID: 0000-0003-1501-7772
 ## License
 
 Code in this repository is released under the MIT License. External datasets and publication content remain subject to their respective licenses and terms of use.
+
+
+## Related GeoAI projects
+
+This repository is part of a focused geoscience/GeoAI portfolio:
+
+- [Nevada Au-Ag GeoAI Prospectivity](https://github.com/Kazinage/nevada-au-ag-geoai-prospectivity) - spatial CV, PU learning, AOA, calibration and uncertainty.
+- [Zambia Cu-Co Unsupervised Prospectivity](https://github.com/Kazinage/zambia-cu-co-unsupervised-prospectivity) - ensemble clustering for label-scarce airborne geophysics.
+- [Uranium Horizon ML Geophysics](https://github.com/Kazinage/uranium-horizon-ml-geophysics) - grouped well-log validation and productive-horizon classification.
+- [Mineral Anomaly Detection ML](https://github.com/Kazinage/mineral-anomaly-detection-ml) - PCA, Isolation Forest, One-Class SVM and anomaly clustering.
