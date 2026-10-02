@@ -1,5 +1,6 @@
 # Nevada Au-Ag GeoAI Prospectivity
 
+[![CI](https://github.com/Kazinage/nevada-au-ag-geoai-prospectivity/actions/workflows/ci.yml/badge.svg)](https://github.com/Kazinage/nevada-au-ag-geoai-prospectivity/actions/workflows/ci.yml)
 **Spatially honest, uncertainty-aware mineral prospectivity mapping for Au-Ag in the Nevada Great Basin.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
