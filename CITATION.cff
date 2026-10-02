@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated peer-reviewed article."
+title: "Nevada Au-Ag GeoAI Prospectivity"
+type: software
+authors:
+  - family-names: Saduov
+    given-names: Alisher
+    orcid: "https://orcid.org/0000-0003-1501-7772"
+repository-code: "https://github.com/Kazinage/nevada-au-ag-geoai-prospectivity"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Saduov
+      given-names: Alisher
+    - family-names: Zholtayev
+      given-names: Geroy
+    - family-names: Togizov
+      given-names: Kuanysh
+    - family-names: Umarbekova
+      given-names: Zamzagul
+    - family-names: Zhumabay
+      given-names: Nurbakyt
+    - family-names: Amangeldi
+      given-names: Nursat
+  title: "AOA-Constrained, Calibrated Random-Forest Prospectivity Mapping for Au-Ag in Nevada Great Basin: Spatially Independent Validation, Uncertainty, and Decision-Focused Top-k Targets"
+  journal: Minerals
+  year: 2026
+  volume: 16
+  issue: 9
+  doi: "10.3390/min16090886"
